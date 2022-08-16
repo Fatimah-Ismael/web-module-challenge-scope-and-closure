@@ -8,8 +8,8 @@ The module challenge is the afternoon project or assignment that students work t
 
 ## Objectives
 
-- Explain function scope
-- Describe what closure is, how closure is created in a program and why it is important to understand closures in JavaScript  
+- Explain function scope: being able to access variables only within that function. var is function scope, const and let are block scoped.
+- Describe what closure is, how closure is created in a program and why it is important to understand closures in JavaScript  - closures are functions referencing external variables from inside another function. important to understand because it helps us keep our code DRY.
 
 ## Introduction
 
